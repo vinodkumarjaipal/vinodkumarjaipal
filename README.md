@@ -62,8 +62,9 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarjaipal&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarjaipal&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
+
 
 
 
@@ -75,7 +76,6 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 
 ---
 
-## 🧠 LeetCode Stats
 
 ## 🧠 LeetCode Stats
 
