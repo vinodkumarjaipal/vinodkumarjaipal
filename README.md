@@ -20,7 +20,6 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 ---
 
 ## 🚀 Technical Skills
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,react,nodejs,git,github&theme=dark" />
@@ -59,12 +58,7 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodkumarjaipal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumarjaipal&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 ## 💻 Top Languages
 
 <p align="center">
