@@ -62,8 +62,9 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,react,nodejs,git,github&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarjaipal&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 
 ---
