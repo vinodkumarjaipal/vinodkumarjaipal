@@ -20,6 +20,11 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 ---
 
 ## 🚀 Technical Skills
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,react,nodejs,git,github&theme=dark" />
+</p>
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,8 +61,15 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodkumarjaipal&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarjaipal&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinodkumarjaipal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumarjaipal&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarjaipal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
