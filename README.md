@@ -13,6 +13,12 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 - 🧠 Problem Solving: LeetCode & DSA (Java)  
 - 🚀 Focus: Web Development, Clean Code, Real-World Projects  
 - 📚 Always learning & improving
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake"
+    src="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
