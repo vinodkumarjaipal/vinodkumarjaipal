@@ -80,7 +80,12 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake"
+    src="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 ---
