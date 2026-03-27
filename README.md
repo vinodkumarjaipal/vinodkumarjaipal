@@ -88,17 +88,7 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 
 ---
 
-## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake"
-    src="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
----
 
 ## 🌐 Connect With Me
 
@@ -108,5 +98,17 @@ I enjoy building clean, responsive, and user-friendly applications while continu
 - Instagram: https://www.instagram.com/v_kjaipal  
 
 ---
+### 🌐 Join Me on CoderLegion
 
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Vinod+Kumar) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Vinod+Kumar)
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake"
+    src="https://github.com/vinodkumarjaipal/vinodkumarjaipal/raw/output/github-contribution-grid-snake.svg" />
+</picture>
+---
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
