@@ -1,4 +1,4 @@
--<img src="https://avatars.githubusercontent.com/u/128352464?v=4" width="200" />
+
 +<p align="center">
 +  <img
 +    src="https://avatars.githubusercontent.com/u/128352464?v=4"
