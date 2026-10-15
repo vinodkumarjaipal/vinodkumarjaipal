@@ -82,12 +82,12 @@ Hobbies  : Coding | Problem Solving | Open Source
 
 <div align="center">
 
-| 🏷️ Project | 🔧 Tech Stack | 🔗 Link |
-|---|---|---|
-| 🌐 **Portfolio Website** | HTML, CSS | [Live Demo](https://vinodkumarjaipal.github.io) |
-| 🎨 **Semantic HTML & CSS Portfolio** | HTML5, CSS3 | [Live Demo](https://vinodkumarjaipal.github.io/semantic-html-css-portfolio-website/) |
-| 📋 **Registration & Advanced Forms** | HTML, CSS | [Form 1](https://vinodkumarjaipal.github.io/html-css-registration-form/) · [Form 2](https://vinodkumarjaipal.github.io/html-advanced-form-inputs/) |
-| 🧠 **Java DSA — LeetCode Solutions** | Java | [Repository](https://github.com/vinodkumarjaipal/leetcode) |
+| 🏷️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Links |
+|---|---|---|---|
+| ✉️ **QuickTempBox** | Open-source temporary email generator to receive emails instantly & protect privacy. | JavaScript, HTML, CSS | [Live Demo](https://quicktempbox.netlify.app/) · [GitHub](https://github.com/vinodkumarjaipal/quicktempbox) |
+| 🛡️ **Safaya MetaFix** | Privacy-first video metadata scrubber & hash scrambler with 100% client-side processing. | Next.js, FFmpeg WASM | [Live Demo](https://safayametafix.vercel.app/) · [GitHub](https://github.com/vinodkumarjaipal/safayametafix) |
+| 📹 **MediaGrab Hub** | Multi-platform video downloader with auth, progress tracking & metadata extraction. | Python, Flask, Render | [GitHub](https://github.com/vinodkumarjaipal/MediaGrab-Hub) |
+| 📧 **QuickEduMail SaaS** | Privacy-focused SaaS for disposable emails with free & Paddle-integrated premium tier. | Next.js, Paddle API | [GitHub](https://github.com/vinodkumarjaipal/quickedumail-saas) |
 
 </div>
 
