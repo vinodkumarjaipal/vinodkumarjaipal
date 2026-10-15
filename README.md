@@ -1,5 +1,13 @@
-<img src="https://avatars.githubusercontent.com/u/128352464?v=4" width="200" />
-
+-<img src="https://avatars.githubusercontent.com/u/128352464?v=4" width="200" />
++<p align="center">
++  <img
++    src="https://avatars.githubusercontent.com/u/128352464?v=4"
++    width="200"
++    height="200"
++    style="border-radius: 50%; object-fit: cover;"
++    alt="Vinod Kumar Jaipal"
++  />
++</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinod+Kumar+Jaipal;Software+Engineer;Full+Stack+Developer;HTML+CSS+JavaScript+React;Java+%7C+C%2B%2B+Developer;Building+Modern+Web+Applications" />
