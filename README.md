@@ -1,3 +1,6 @@
+<img width="1401" height="691" alt="image" src="https://github.com/user-attachments/assets/c71e0d98-fea9-41f1-9ce5-41fc773b7736" />
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinod+Kumar+Jaipal;Software+Engineer;Full+Stack+Developer;HTML+CSS+JavaScript+React;Java+%7C+C%2B%2B+Developer;Building+Modern+Web+Applications" />
 </h1>
