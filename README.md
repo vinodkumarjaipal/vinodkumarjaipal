@@ -1,4 +1,4 @@
-<img width="1401" height="691" alt="image" src="https://github.com/user-attachments/assets/c71e0d98-fea9-41f1-9ce5-41fc773b7736" />
+<img src="https://avatars.githubusercontent.com/u/128352464?v=4" width="200" />
 
 
 <h1 align="center">
